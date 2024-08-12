@@ -1,0 +1,45 @@
+header{
+	background-color: #354499;
+	text-align: center;
+	padding-block: 50px;
+}
+header h1{
+	font-size: 50px;
+	color: white;
+}
+header img{
+	border-radius: 215px;
+	width: 300px;
+	border: 20px solid black;
+}
+
+h1,h2{
+	font-family: oswald, sans-serif;
+}
+
+h2{
+	font-size: 30px;
+}
+
+body{
+	font-family: helvetica, sans-serif;
+	font-size: 20px;
+	margin: 0px;
+	line-height: 30px;
+}
+
+main img{
+	min-width: 700px;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding:  20px;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin-top: 0;
+}
